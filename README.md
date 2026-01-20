@@ -37,4 +37,4 @@ The research validated the core logic for interpreting signals with the followin
 * [View Proof of Concept Document (PDF)](PoC_Mindscape.pdf)
 
 ---
-*Conceptualized by Nevin Shine. Awarded by Amal Jyothi College of Engineering (Kanjirapally).*
+*Conceptualized by Nibin Biju Cheriyan. Awarded by Amal Jyothi College of Engineering (Kanjirapally).*
